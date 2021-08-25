@@ -7,3 +7,7 @@ db:
   connection: connectionString1
   host: localee
   port: 12001
+spring:
+  cloud:
+    config:
+      allow-override: true
