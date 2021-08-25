@@ -1,0 +1,9 @@
+my:
+ greetings: Hello World from configclient.yml dev microService
+ list:
+   values: hundred , twohundred , dev
+
+db:
+  connection: connectionString1dev
+  host: localeedev
+  port: 12001

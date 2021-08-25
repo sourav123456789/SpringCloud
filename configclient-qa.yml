@@ -1,0 +1,9 @@
+my:
+ greetings: Hello World from configclient.yml  QAmicroService
+ list:
+   values: hundred , twohundred, QA
+
+db:
+  connection: connectionString1QA
+  host: localeeQA
+  port: 12001
