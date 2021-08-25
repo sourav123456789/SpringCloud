@@ -1,0 +1,9 @@
+my:
+ greetings: Hello World from cloudconfig
+ list:
+   values: one,two,three, five , six
+
+db:
+  connection: connectionString
+  host: local
+  port: 1200
