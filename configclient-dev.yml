@@ -1,9 +1,9 @@
 my:
- greetings: Final Updated Hello World from configclient.yml dev microService
+ greetings: full Final Updated Hello World from configclient.yml dev microService
  list:
    values: hundred , twohundred , dev
 
 db:
-  connection: final connectionString1dev
-  host: final localeedev
+  connection: full final connectionString1dev
+  host: full final localeedev
   port: 12001
