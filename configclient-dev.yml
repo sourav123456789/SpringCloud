@@ -4,6 +4,6 @@ my:
    values: hundred , twohundred , dev
 
 db:
-  connection: connectionString1dev
-  host: localeedev
+  connection: final connectionString1dev
+  host: final localeedev
   port: 12001
