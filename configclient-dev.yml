@@ -1,5 +1,5 @@
 my:
- greetings: Updated Hello World from configclient.yml dev microService
+ greetings: Final Updated Hello World from configclient.yml dev microService
  list:
    values: hundred , twohundred , dev
 
