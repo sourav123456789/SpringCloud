@@ -1,5 +1,5 @@
 my:
- greetings: full Final Updated Hello World from configclient.yml dev microService
+ greetings: full Final Updated Hello World from configclient.yml dev microService and the value is from azuremigration Brach
  list:
    values: hundred , twohundred , dev
 
